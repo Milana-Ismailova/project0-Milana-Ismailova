@@ -1,0 +1,13 @@
+
+$fz:14px;
+$ff:Verdana,Tahoma,sans-serif;
+
+body{
+	font-size:$fz;
+	font-family:$ff;
+}
+
+a{
+	text-decoration:none;
+	font-size: $fz+5px;
+}
