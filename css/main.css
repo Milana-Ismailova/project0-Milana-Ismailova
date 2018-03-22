@@ -213,7 +213,7 @@ h2{
 }
 
 @media screen and (max-width: 576px) {
-    .ipad {
+    .collage {
         width: 100%;
         height: 400px;
     }
